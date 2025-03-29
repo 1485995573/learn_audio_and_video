@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ffmpeg_test.dir/src/main.c.o CMakeFiles/ffmpeg_test.dir/src/ffmpeg_utils.c.o -o ffmpeg_test  -lavcodec -lavformat -lavutil 

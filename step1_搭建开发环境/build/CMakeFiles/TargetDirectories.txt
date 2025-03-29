@@ -1,0 +1,3 @@
+/home/cwb/work/learn_audio_and_video/step1_安装环境搭建/build/CMakeFiles/ffmpeg_test.dir
+/home/cwb/work/learn_audio_and_video/step1_安装环境搭建/build/CMakeFiles/edit_cache.dir
+/home/cwb/work/learn_audio_and_video/step1_安装环境搭建/build/CMakeFiles/rebuild_cache.dir
